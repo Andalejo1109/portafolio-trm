@@ -15,25 +15,21 @@ La TRM bajó de ~4.030 a **3.193** (pico 4.478 en nov-2024). En dólares el resu
 
 ## Gráficos
 
-Dólares vs TRM:
+Dólares:
 
-![USD vs TRM](images/usd_vs_trm.svg)
+![USD](images/usd_vs_trm.svg)
 
-En pesos:
+Pesos:
 
 ![COP](images/cop.svg)
 
-Notebook con los PNG: [portafolio_vs_trm.ipynb](portafolio_vs_trm.ipynb)
-
-## Qué hay en el repo
+Notebook: [portafolio_vs_trm.ipynb](portafolio_vs_trm.ipynb)
 
 ```
 README.md
 portafolio_vs_trm.ipynb
 images/usd_vs_trm.svg
-images/usd_vs_trm.png
 images/cop.svg
-images/cop.png
 ```
 
 Solo cuenta Alejo. Sin Cindy ni Hapi. Rentabilidades pasadas no garantizan resultados futuros.
