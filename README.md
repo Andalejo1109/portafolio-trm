@@ -32,4 +32,4 @@ images/usd_vs_trm.svg
 images/cop.svg
 ```
 
-Solo cuenta Alejo. Sin Cindy ni Hapi. Rentabilidades pasadas no garantizan resultados futuros.
+Solo cuenta Alejo. Sin alterno ni Hapi. Rentabilidades pasadas no garantizan resultados futuros.
